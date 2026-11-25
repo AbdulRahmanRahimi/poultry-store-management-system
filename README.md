@@ -1,6 +1,6 @@
 # Poultry Supply Store Management System
 
-> **Client project** · Built by [Rahimi Tech Solution](https://github.com/rahimiabdulrahmanab) · The source code is private to the clients.
+> **Client project** · Built by [Rahimi Tech Solution](https://github.com/AbdulRahmanRahimi) · The source code is private to the clients.
 
 A complete management system for poultry supply businesses in Afghanistan. It is built as a **reusable product**: every client gets their own database, deployment and branding. It runs today for **Royani Poultry Supply Store**, **Hadi Poultry Services** and **Anas Hadi Poultry**.
 
